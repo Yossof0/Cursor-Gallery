@@ -71,9 +71,30 @@
       "downloads": 0,
       "rating": null,
       "added": "2026-03-11"
+    },
+    {
+    "id": "better-normal",
+      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/better-normal/grab.png",
+      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/better-normal/grabbing.png",
+      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/better-normal/grab.png",
+      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/better-normal/grabbing.png",
+      "downloads": 0,
+      "rating": null,
+      "added": "2026-03-11"
+    },
+    {
+    "id": "enhanced-normal",
+      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/enhanced-normal/grab.png",
+      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/enhanced-normal/grabbing.png",
+      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/enhanced-normal/grab.png",
+      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.3/packs/enhanced-normal/grabbing.png",
+      "downloads": 0,
+      "rating": null,
+      "added": "2026-03-11"
     }
   ]
 }
+
 
 
 
