@@ -24,10 +24,10 @@
     },
     {
       "id": "win11-dark",
-      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-dark/grab.png",
-      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-dark/grabbing.png",
-      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-dark/grab.png",
-      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-dark/grabbing.png",
+      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.0/packs/win11-dark/grab.png",
+      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.0/packs/win11-dark/grabbing.png",
+      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.0/packs/win11-dark/grab.png",
+      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.0/packs/win11-dark/grabbing.png",
       "downloads": 0,
       "rating": null,
       "added": "2026-03-05"
@@ -64,6 +64,7 @@
     }
   ]
 }
+
 
 
 
