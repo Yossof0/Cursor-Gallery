@@ -1,0 +1,9 @@
+{
+  "id": "win11-dark",
+  "name": "Arrow Light",
+  "author": "Yossof0",
+  "description": "Nice modern Cursor, Light theme",
+  "tags": ["modern", "minimal", "official"],
+  "hotspotX": 16, "hotspotY": 16,
+  "syncHotspot": true
+}
