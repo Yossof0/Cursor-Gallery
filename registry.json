@@ -56,10 +56,10 @@
       "author": "Yossof0",
       "description": "Nice modern Cursor, Light theme.",
       "tags": ["modern", "minimal", "official"],
-      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-light/grab.png",
-      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-light/grabbing.png",
-      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-light/grab.png",
-      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-light/grabbing.png",
+      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-Light/grab.png",
+      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-Light/grabbing.png",
+      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-Light/grab.png",
+      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/Arrow-Light/grabbing.png",
       "hotspotX": 16, "hotspotY": 16,
       "syncHotspot": true,
       "downloads": 0,
@@ -69,3 +69,4 @@
   ]
 
 }
+
