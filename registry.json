@@ -3,36 +3,6 @@
   "_version": 2,
   "packs": [
     {
-      "id": "macos",
-      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/macos/grab.png",
-      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/macos/grabbing.png",
-      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/macos/grab.png",
-      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/macos/grabbing.png",
-      "downloads": 0,
-      "rating": null,
-      "added": "2026-03-05"
-    },
-    {
-      "id": "win11-light",
-      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-light/grab.png",
-      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-light/grabbing.png",
-      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-light/grab.png",
-      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/win11-light/grabbing.png",
-      "downloads": 0,
-      "rating": null,
-      "added": "2026-03-05"
-    },
-    {
-      "id": "win11-dark",
-      "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.2/packs/win11-dark/grab.png",
-      "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.2/packs/win11-dark/grabbing.png",
-      "grabPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.2/packs/win11-dark/grab.png",
-      "grabbingPreview": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@v1.2/packs/win11-dark/grabbing.png",
-      "downloads": 0,
-      "rating": null,
-      "added": "2026-03-05"
-    },
-    {
       "id": "arrow-light",
       "grabUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/arrow-light/grab.png",
       "grabbingUrl": "https://cdn.jsdelivr.net/gh/Yossof0/Cursor-Gallery@main/packs/arrow-light/grabbing.png",
@@ -94,6 +64,7 @@
     }
   ]
 }
+
 
 
 
